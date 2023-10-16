@@ -1,0 +1,1284 @@
+{
+  "general": [
+    {
+      "id": 1,
+      "points": 200,
+      "question": "Wie nennt man verfallene Bauwerke?",
+      "answer_options": {
+        "1": "Ruinen",
+        "2": "Krypten",
+        "3": "Runen",
+        "4": "Runzeln"
+      },
+      "correct_answer_id": 1
+    },
+    {
+      "id": 2,
+      "points": 200,
+      "question": "Wann endete der erste Weltkrieg?",
+      "answer_options": {
+        "1": "1944",
+        "2": "1918",
+        "3": "1945",
+        "4": "1908"
+      },
+      "correct_answer_id": 2
+    },
+    {
+      "id": 3,
+      "points": 200,
+      "question": "Was ist die Hauptstadt von Deutschland?",
+      "answer_options": {
+        "1": "Paris",
+        "2": "Krefeld",
+        "3": "Düsseldorf",
+        "4": "Berlin"
+      },
+      "correct_answer_id": 4
+    },
+    {
+      "id": 4,
+      "points": 200,
+      "question": "Wie viele Tage hat der Februar in einem Schaltjahr?",
+      "answer_options": {
+        "1": "28",
+        "2": "29",
+        "3": "30",
+        "4": "31"
+      },
+      "correct_answer_id": 2
+    },
+    {
+      "id": 5,
+      "points": 200,
+      "question": "Wie lautet die Hauptstadt von Frankreich?",
+      "answer_options": {
+        "1": "Washington DC",
+        "2": "Marseille",
+        "3": "Paris",
+        "4": "Madrid"
+      },
+      "correct_answer_id": 3
+    },
+    {
+      "id": 6,
+      "points": 200,
+      "question": "Wie viele Kontinente gibt es auf der Welt?",
+      "answer_options": {
+        "1": "5",
+        "2": "6",
+        "3": "7",
+        "4": "8"
+      },
+      "correct_answer_id": 3
+    },
+    {
+      "id": 7,
+      "points": 200,
+      "question": "Wie lautet der höchste Berg der Welt?",
+      "answer_options": {
+        "1": "Mount Everest",
+        "2": "Mont Blanc",
+        "3": "Zugspitze",
+        "4": "Wetterspitze"
+      },
+      "correct_answer_id": 1
+    },
+    {
+      "id": 8,
+      "points": 200,
+      "question": "Wie viele Bundesländer hat Deutschland?",
+      "answer_options": {
+        "1": "17",
+        "2": "23",
+        "3": "16",
+        "4": "29"
+      },
+      "correct_answer_id": 3
+    },
+    {
+      "id": 9,
+      "points": 400,
+      "question": "Welcher Planet ist der zweitgrößte im Sonnensystem?",
+      "answer_options": {
+        "1": "Mars",
+        "2": "Jupiter",
+        "3": "Venus",
+        "4": "Saturn"
+      },
+      "correct_answer_id": 4
+    },
+    {
+      "id": 10,
+      "points": 400,
+      "question": "Wie heißen die zwei Charaktere aus der Sesamstraße?",
+      "answer_options": {
+        "1": "Bert und Ernie",
+        "2": "Tom und Jerry",
+        "3": "Mickey und Minnie",
+        "4": "Leon und Micky"
+      },
+      "correct_answer_id": 1
+    },
+    {
+      "id": 11,
+      "points": 400,
+      "question": "Was ist das größte Tier auf der Erde?",
+      "answer_options": {
+        "1": "Elefant",
+        "2": "Pinguin",
+        "3": "Weiße Hai",
+        "4": "Blauwal"
+      },
+      "correct_answer_id": 4
+    },
+    {
+      "id": 12,
+      "points": 400,
+      "question": "Welches flüssige Metall wird in Thermometern verbaut?",
+      "answer_options": {
+        "1": "Cäsium",
+        "2": "Quecksilber",
+        "3": "Gallium",
+        "4": "Galinstan"
+      },
+      "correct_answer_id": 2
+    },
+    {
+      "id": 13,
+      "points": 400,
+      "question": "Wer erfand die Relativitätstheorie?",
+      "answer_options": {
+        "1": "Isaac Newton",
+        "2": "Werner Heisenberg",
+        "3": "Albert Einstein",
+        "4": "Marie Curie"
+      },
+      "correct_answer_id": 3
+    },
+    {
+      "id": 14,
+      "points": 400,
+      "question": "Welches Element hat das chemische Symbol „H“?",
+      "answer_options": {
+        "1": "Fluorwasserstoff",
+        "2": "Natrium",
+        "3": "Natriumhypochlorit",
+        "4": "Wasserstoff"
+      },
+      "correct_answer_id": 4
+    },
+    {
+      "id": 15,
+      "points": 400,
+      "question": "Wie lautet der längste Fluss Deutschlands?",
+      "answer_options": {
+        "1": "Rhein",
+        "2": "Nil",
+        "3": "Donau",
+        "4": "Oder"
+      },
+      "correct_answer_id": 1
+    },
+    {
+      "id": 16,
+      "points": 400,
+      "question": "Wie lautet die kleinste Einheit eines chemischen Elements?",
+      "answer_options": {
+        "1": "Molekül",
+        "2": "Gonosom",
+        "3": "Base",
+        "4": "Atom"
+      },
+      "correct_answer_id": 4
+    },
+    {
+      "id": 17,
+      "points": 400,
+      "question": "Wie heißt die Hauptstadt von Ungarn?",
+      "answer_options": {
+        "1": "Budapest",
+        "2": "Bukarest",
+        "3": "Zagreb",
+        "4": "Prag"
+      },
+      "correct_answer_id": 1
+    },
+    {
+      "id": 18,
+      "points": 600,
+      "question": "In welchem Jahr fand die erste Mondlandung statt?",
+      "answer_options": {
+        "1": "1924",
+        "2": "1969",
+        "3": "1979",
+        "4": "1998"
+      },
+      "correct_answer_id": 2
+    },
+    {
+      "id": 19,
+      "points": 600,
+      "question": "Was ist das „Land der aufgehenden Sonne“?",
+      "answer_options": {
+        "1": "Thailand",
+        "2": "China",
+        "3": "Südkorea",
+        "4": "Japan"
+      },
+      "correct_answer_id": 4
+    },
+    {
+      "id": 20,
+      "points": 600,
+      "question": "Welche Person erhielt den ersten Friedensnobelpreis?",
+      "answer_options": {
+        "1": "Henry Dunant",
+        "2": "Christopher Lee",
+        "3": "Conrad Röntgen",
+        "4": "Sylvester Stallone"
+      },
+      "correct_answer_id": 1
+    },
+    {
+      "id": 21,
+      "points": 600,
+      "question": "Wofür steht die Abkürzung RTL?",
+      "answer_options": {
+        "1": "Rundfunk Total Luxembourg",
+        "2": "Richtig Television Lippe",
+        "3": "Radio Télévision Luxembourg",
+        "4": "Rundfunk Television Leben"
+      },
+      "correct_answer_id": 3
+    },
+    {
+      "id": 22,
+      "points": 800,
+      "question": "Welches der folgenden Länder hat die größte Fläche?",
+      "answer_options": {
+        "1": "USA",
+        "2": "Indien",
+        "3": "China",
+        "4": "Kanada"
+      },
+      "correct_answer_id": 4
+    },
+    {
+      "id": 23,
+      "points": 800,
+      "question": "Wo befindet sich der Hauptsitz des Europäischen Gerichtshofs?",
+      "answer_options": {
+        "1": "Stassburg",
+        "2": "Berlin",
+        "3": "Brüssel",
+        "4": "Luxemburg"
+      },
+      "correct_answer_id": 4
+    },
+    {
+      "id": 24,
+      "points": 800,
+      "question": "Wann wurde Angela Merkel Bundeskanzlerin?",
+      "answer_options": {
+        "1": "22. November 2005",
+        "2": "22. September 2005",
+        "3": "21. Oktober 2004",
+        "4": "22. November 2002"
+      },
+      "correct_answer_id": 1
+    },
+    {
+      "id": 25,
+      "points": 800,
+      "question": "Welche Stadt hat nach Berlin die meisten Einwohner in Deutschland?",
+      "answer_options": {
+        "1": "München",
+        "2": "Leipzig",
+        "3": "Hamburg",
+        "4": "Frankfurt am Main"
+      },
+      "correct_answer_id": 3
+    },
+    {
+      "id": 26,
+      "points": 1000,
+      "question": "Das Wort „Hippopotomonstrosesquippedaliofobie“ beschreibt die Angst vor…",
+      "answer_options": {
+        "1": "langen Wörtern",
+        "2": "künstlicher Intelligenz",
+        "3": "dem Atmen",
+        "4": "der Zahl 8"
+      },
+      "correct_answer_id": 1
+    },
+    {
+      "id": 27,
+      "points": 1000,
+      "question": "In welchem Jahr wurde Unabhängigkeit der Vereinigten Staaten von Amerika erklärt?",
+      "answer_options": {
+        "1": "1659",
+        "2": "1703",
+        "3": "1776",
+        "4": "1812"
+      },
+      "correct_answer_id": 3
+    },
+    {
+      "id": 28,
+      "points": 1000,
+      "question": "Wann wurde Queen Elisabeth II. zur Königin gekrönt?",
+      "answer_options": {
+        "1": "1950",
+        "2": "1951",
+        "3": "1952",
+        "4": "1953"
+      },
+      "correct_answer_id": 4
+    }
+  ],
+  "literature": [
+    {
+      "id": 29,
+      "points": 200,
+      "question": "Wer schrieb das Buch „Alice im Wunderland“?",
+      "answer_options": {
+        "1": "William Shakespeare",
+        "2": "Charles Dickens",
+        "3": "Lewis Carroll",
+        "4": "Jane Austen"
+      },
+      "correct_answer_id": 3
+    },
+    {
+      "id": 30,
+      "points": 200,
+      "question": "Wer schrieb das Drama „Romeo und Julia“?",
+      "answer_options": {
+        "1": "Erich Kästner",
+        "2": "William Shakespeare",
+        "3": "Mario von Jascheroff",
+        "4": "Carsten Stahl"
+      },
+      "correct_answer_id": 2
+    },
+    {
+      "id": 31,
+      "points": 200,
+      "question": "Wer ist der Autor des Romans „Faust“?",
+      "answer_options": {
+        "1": "Friedrich Schiller",
+        "2": "Heinrich Heine",
+        "3": "Thomas Mann",
+        "4": "Johann Wolfgang von Goethe"
+      },
+      "correct_answer_id": 4
+    },
+    {
+      "id": 32,
+      "points": 200,
+      "question": "Welches Tier gehört nicht zu „Die Bremer Stadtmusikanten“?",
+      "answer_options": {
+        "1": "Maultier",
+        "2": "Hund",
+        "3": "Katze",
+        "4": "Hanh"
+      },
+      "correct_answer_id": 1
+    },
+    {
+      "id": 33,
+      "points": 400,
+      "question": "Wie heißt der Detektiv in den Büchern von Arthur Conan Doyle?",
+      "answer_options": {
+        "1": "Sherlock Holmes",
+        "2": "Hercule Poirot",
+        "3": "Miss Marple",
+        "4": "Columbo"
+      },
+      "correct_answer_id": 1
+    },
+    {
+      "id": 34,
+      "points": 400,
+      "question": "Wer ist der Autor des Buches „Der kleine Prinz“?",
+      "answer_options": {
+        "1": "Leo Tolstoi",
+        "2": "F. Scott Fitzgerald",
+        "3": "Antoine de Saint-Exupéry",
+        "4": "Hermann Hesse"
+      },
+      "correct_answer_id": 3
+    },
+    {
+      "id": 35,
+      "points": 400,
+      "question": "Welcher Autor schrieb das Buch „Hamlet“?",
+      "answer_options": {
+        "1": "Jane Austen",
+        "2": "William Shakespeare",
+        "3": "Mark Twain",
+        "4": "F. Scott Fitzgerald"
+      },
+      "correct_answer_id": 2
+    },
+    {
+      "id": 36,
+      "points": 400,
+      "question": "Welche Adresse ist mit Sherlock Holmes verbunden?",
+      "answer_options": {
+        "1": "Downing Street 10",
+        "2": "Abbey Road 42",
+        "3": "221b Baker Street",
+        "4": "Princess Street 7"
+      },
+      "correct_answer_id": 3
+    },
+    {
+      "id": 37,
+      "points": 400,
+      "question": "Welche Zeitung gibt es nicht?",
+      "answer_options": {
+        "1": "The Guardian",
+        "2": "Alte Welt",
+        "3": "Stadt-Anzeiger",
+        "4": "Bild"
+      },
+      "correct_answer_id": 2
+    },
+    {
+      "id": 38,
+      "points": 600,
+      "question": "Hinter welchem Titel verbirgt sich ein Kriminalroman?",
+      "answer_options": {
+        "1": "Tod in Venedig ",
+        "2": "Tod und Teufel",
+        "3": "Tod eines Handlungsreisenden",
+        "4": "Tod eines Polizisten"
+      },
+      "correct_answer_id": 2
+    },
+    {
+      "id": 39,
+      "points": 600,
+      "question": "Wer schrieb das Buch „Der Prozess“?",
+      "answer_options": {
+        "1": "Franz Kafka",
+        "2": "Stephen King",
+        "3": "Henning Mankell",
+        "4": "J. K. Rowling"
+      },
+      "correct_answer_id": 1
+    },
+    {
+      "id": 40,
+      "points": 600,
+      "question": "Wer schrieb das Buch „Der Name der Rose“?",
+      "answer_options": {
+        "1": "Dan Brown",
+        "2": "Hermann Hesse",
+        "3": "Umberto Eco",
+        "4": "Thomas More"
+      },
+      "correct_answer_id": 3
+    },
+    {
+      "id": 41,
+      "points": 600,
+      "question": "Welcher Roman von George Orwell spielt in einer Überwachungsgesellschaft?",
+      "answer_options": {
+        "1": "Tierfarm",
+        "2": "1984",
+        "3": "Brave New World",
+        "4": "Fahrenheit 451"
+      },
+      "correct_answer_id": 2
+    },
+    {
+      "id": 42,
+      "points": 600,
+      "question": "Wer ist der Autor des Buches „Die Odyssee“?",
+      "answer_options": {
+        "1": "Homer",
+        "2": "Virgil",
+        "3": "Plato",
+        "4": "Aristotle"
+      },
+      "correct_answer_id": 1
+    },
+    {
+      "id": 43,
+      "points": 600,
+      "question": "Welcher Autor schrieb das Buch „Krieg und Frieden“?",
+      "answer_options": {
+        "1": "Fyodor Dostoevsky",
+        "2": "Leo Tolstoy",
+        "3": "Anton Chekhov",
+        "4": "Ivan Turgenev"
+      },
+      "correct_answer_id": 2
+    },
+    {
+      "id": 44,
+      "points": 800,
+      "question": "Wer schrieb das Epos „Die Ilias“?",
+      "answer_options": {
+        "1": "Aristoteles",
+        "2": "Virgil",
+        "3": "Ovid",
+        "4": "Homer"
+      },
+      "correct_answer_id": 4
+    },
+    {
+      "id": 45,
+      "points": 800,
+      "question": "Wann ist der „Welttag des Buches“?",
+      "answer_options": {
+        "1": "06. Juni",
+        "2": "14. Mai",
+        "3": "12. Juli",
+        "4": "23. April"
+      },
+      "correct_answer_id": 4
+    },
+    {
+      "id": 46,
+      "points": 800,
+      "question": "Wann wurde der moderne Buchdruck erfunden?",
+      "answer_options": {
+        "1": "1320",
+        "2": "1450",
+        "3": "1580",
+        "4": "1690"
+      },
+      "correct_answer_id": 2
+    },
+    {
+      "id": 47,
+      "points": 1000,
+      "question": "Welches bekannte Gedicht beginnt mit „Vom Eise befreit sind…“?",
+      "answer_options": {
+        "1": "Osterspaziergang",
+        "2": "Sonnenaufgang",
+        "3": "Frühlingserwachen",
+        "4": "Morgentau"
+      },
+      "correct_answer_id": 1
+    },
+    {
+      "id": 48,
+      "points": 1000,
+      "question": "„Die verlorene Ehre der Katharina Blum“ ist eine Abrechnung mit…",
+      "answer_options": {
+        "1": "Kredithaien",
+        "2": "vorehelicher Liebe",
+        "3": "der Bild-Zeitung",
+        "4": "Aktionären"
+      },
+      "correct_answer_id": 3
+    },
+    {
+      "id": 49,
+      "points": 1000,
+      "question": "Wann wurde Friedrich Schiller geboren?",
+      "answer_options": {
+        "1": "1757",
+        "2": "1758",
+        "3": "1759",
+        "4": "1760"
+      },
+      "correct_answer_id": 3
+    }
+  ],
+  "health": [
+    {
+      "id": 50,
+      "points": 200,
+      "question": "Was ist das größte Organ im menschlichen Körper?",
+      "answer_options": {
+        "1": "Haut",
+        "2": "Lunge",
+        "3": "Milz",
+        "4": "Darm"
+      },
+      "correct_answer_id": 1
+    },
+    {
+      "id": 51,
+      "points": 200,
+      "question": "Was ist die Aufgabe des Herz-Kreislauf-Systems?",
+      "answer_options": {
+        "1": "Verdauung von Nahrung",
+        "2": "Sauer- und Nährstofftransport",
+        "3": "Ausscheidung von Abfällen",
+        "4": "Regulation der Körpertemperatur"
+      },
+      "correct_answer_id": 2
+    },
+    {
+      "id": 52,
+      "points": 200,
+      "question": "Zu wie viel Prozent besteht der menschliche Körper aus Wasser?",
+      "answer_options": {
+        "1": "15-30%",
+        "2": "40-65%",
+        "3": "65-80%",
+        "4": "80-95%"
+      },
+      "correct_answer_id": 2
+    },
+    {
+      "id": 53,
+      "points": 200,
+      "question": "Welche Krankheit ist auch als „Zuckerkrankheit“ bekannt?",
+      "answer_options": {
+        "1": "Morbus Menière",
+        "2": "Fettsucht",
+        "3": "Schokoladensucht",
+        "4": "Diabetes mellitus"
+      },
+      "correct_answer_id": 4
+    },
+    {
+      "id": 54,
+      "points": 200,
+      "question": "Welche Krankheit ist nicht heilbar?",
+      "answer_options": {
+        "1": "Lungenentzündung",
+        "2": "Masern",
+        "3": "Influenza",
+        "4": "AIDS"
+      },
+      "correct_answer_id": 4
+    },
+    {
+      "id": 55,
+      "points": 400,
+      "question": "Welches Organ produziert Insulin?",
+      "answer_options": {
+        "1": "Herz",
+        "2": "Leber",
+        "3": "Bauchspeicheldrüse",
+        "4": "Niere"
+      },
+      "correct_answer_id": 3
+    },
+    {
+      "id": 56,
+      "points": 400,
+      "question": "Welches Vitamin ist für gesunde Haut wichtig?",
+      "answer_options": {
+        "1": "Vitamin A",
+        "2": "Vitamin B",
+        "3": "Vitamin C",
+        "4": "Vitamin D"
+      },
+      "correct_answer_id": 1
+    },
+    {
+      "id": 57,
+      "points": 400,
+      "question": "Welches Organ filtert Abfallstoffe aus dem Blut?",
+      "answer_options": {
+        "1": "Herz",
+        "2": "Leber",
+        "3": "Lunge",
+        "4": "Magen"
+      },
+      "correct_answer_id": 2
+    },
+    {
+      "id": 58,
+      "points": 600,
+      "question": "Wie viel Blut fließt durch den menschlichen Körper?",
+      "answer_options": {
+        "1": "3 bis 4 Liter",
+        "2": "5 bis 6 Liter",
+        "3": "7 bis 8 Liter",
+        "4": "9 bis 10 Liter"
+      },
+      "correct_answer_id": 2
+    },
+    {
+      "id": 59,
+      "points": 600,
+      "question": "Welche Art des Nervensystems gibt es im menschlichen Körper nicht?",
+      "answer_options": {
+        "1": "Zentralnervensystem",
+        "2": "peripheres Nervensystem",
+        "3": "vegetatives Nervensystem",
+        "4": "binäres Nervensystem"
+      },
+      "correct_answer_id": 4
+    },
+    {
+      "id": 60,
+      "points": 600,
+      "question": "Welches Organ ist für die Blutdruckregulation verantwortlich?",
+      "answer_options": {
+        "1": "Nieren",
+        "2": "Lungen",
+        "3": "Herz",
+        "4": "Leber"
+      },
+      "correct_answer_id": 1
+    },
+    {
+      "id": 61,
+      "points": 600,
+      "question": "Wo entsteht die Galle?",
+      "answer_options": {
+        "1": "Gallenblase",
+        "2": "Darm",
+        "3": "Leber",
+        "4": "Bauchspeicheldrüse"
+      },
+      "correct_answer_id": 3
+    },
+    {
+      "id": 62,
+      "points": 800,
+      "question": "Ab welchem Flüssigkeitsdefizit ist ein Mensch nicht mehr lebenfähig?",
+      "answer_options": {
+        "1": "3%",
+        "2": "12%",
+        "3": "20%",
+        "4": "36%"
+      },
+      "correct_answer_id": 3
+    },
+    {
+      "id": 63,
+      "points": 800,
+      "question": "Welche Vitaminmangelkrankheit wird durch einen Mangel von Vitamin C verursacht?",
+      "answer_options": {
+        "1": "Rachitis",
+        "2": "Pellagra",
+        "3": "Beriberi",
+        "4": "Skorbut"
+      },
+      "correct_answer_id": 4
+    },
+    {
+      "id": 64,
+      "points": 800,
+      "question": "Was ist der medizinische Ausdruck für einen geringen Blutzuckerspiegel?",
+      "answer_options": {
+        "1": "Hypertonie",
+        "2": "Diabetes",
+        "3": "Hypoglykämie",
+        "4": "Hyperglykämie"
+      },
+      "correct_answer_id": 3
+    },
+    {
+      "id": 65,
+      "points": 1000,
+      "question": "Welche Krankheit verursacht das Epstein-Barr-Virus?",
+      "answer_options": {
+        "1": "Hepatitis",
+        "2": "Tuberkulose",
+        "3": "Malaria",
+        "4": "Mononukleose"
+      },
+      "correct_answer_id": 4
+    },
+    {
+      "id": 66,
+      "points": 1000,
+      "question": "Wie viel wiegt im Durchschnitt das Gehirn eines erwachsenen Menschen?",
+      "answer_options": {
+        "1": "1300 Gramm",
+        "2": "800 Gramm",
+        "3": "200 Gramm",
+        "4": "500 Gramm"
+      },
+      "correct_answer_id": 1
+    },
+    {
+      "id": 67,
+      "points": 1000,
+      "question": "Was ist eine Gastritis?",
+      "answer_options": {
+        "1": "Bauchspeicheldrüsenentzündung",
+        "2": "Schilddrüsenentzündung",
+        "3": "Magenschleimhautentzündung",
+        "4": "Gasvergiftung"
+      },
+      "correct_answer_id": 3
+    },
+    {
+      "id": 68,
+      "points": 1000,
+      "question": "Wie lang sind alle Nerven des menschlichen Körpers, würde man diese aneinanderlegen?",
+      "answer_options": {
+        "1": "2,13 Meter",
+        "2": "57 Meter",
+        "3": "57 Kilometer",
+        "4": "780.000 Kilometer"
+      },
+      "correct_answer_id": 4
+    }
+  ],
+  "economics": [
+    {
+      "id": 69,
+      "points": 200,
+      "question": "Was bedeutet die Rechtsform GmbH?",
+      "answer_options": {
+        "1": "Geh mal Bier holen",
+        "2": "Gesellschaft mit beschränkter Handlungsfähigkeit",
+        "3": "Gewerkschaft mit beschränkter Haftung",
+        "4": "Gesellschaft mit beschränkter Haftung"
+      },
+      "correct_answer_id": 4
+    },
+    {
+      "id": 70,
+      "points": 200,
+      "question": "Was ist ein klassisches Beispiel für ein knappes Gut in der Wirtschaftstheorie?",
+      "answer_options": {
+        "1": "Diamanten",
+        "2": "Wasser",
+        "3": "Sand",
+        "4": "Luft"
+      },
+      "correct_answer_id": 1
+    },
+    {
+      "id": 71,
+      "points": 200,
+      "question": "Was ist die weltweit meistbenutzte Währung?",
+      "answer_options": {
+        "1": "Euro",
+        "2": "Yen",
+        "3": "US-Dollar",
+        "4": "Schwedische Krone"
+      },
+      "correct_answer_id": 3
+    },
+    {
+      "id": 72,
+      "points": 400,
+      "question": "Wie nennt man die Teilung eines Arbeitsplatzes?",
+      "answer_options": {
+        "1": "Jobsharing",
+        "2": "Jobshifting",
+        "3": "Jobshopping",
+        "4": "Jobshipping"
+      },
+      "correct_answer_id": 1
+    },
+    {
+      "id": 73,
+      "points": 400,
+      "question": "Was bedeutet der Begriff „Inflation“?",
+      "answer_options": {
+        "1": "Produktivitätssteigerung",
+        "2": "Preissteigerung",
+        "3": "Wertverlust einer Währung",
+        "4": "Sinkende Arbeitslosenquote"
+      },
+      "correct_answer_id": 2
+    },
+    {
+      "id": 74,
+      "points": 400,
+      "question": "Was ist die Grundidee der freien Marktwirtschaft?",
+      "answer_options": {
+        "1": "Sozialistische Planwirtschaft",
+        "2": "Drogenfreiheit",
+        "3": "Privateigentum",
+        "4": "Staatskontrolle"
+      },
+      "correct_answer_id": 3
+    },
+    {
+      "id": 75,
+      "points": 400,
+      "question": "Welches Land hat den höchsten Steuersatz?",
+      "answer_options": {
+        "1": "Deutschland",
+        "2": "Dänemark",
+        "3": "Österreich",
+        "4": "Belgien"
+      },
+      "correct_answer_id": 4
+    },
+    {
+      "id": 76,
+      "points": 400,
+      "question": "Wie wird der Begriff Wirtschaft auch genannt?",
+      "answer_options": {
+        "1": "Ökologie",
+        "2": "Ökolation",
+        "3": "Ökonomie",
+        "4": "Ökmatie"
+      },
+      "correct_answer_id": 3
+    },
+    {
+      "id": 77,
+      "points": 600,
+      "question": "Welches Land hat die höchste Exportmenge von Elektronikprodukten?",
+      "answer_options": {
+        "1": "Japan",
+        "2": "Südkorea",
+        "3": "China",
+        "4": "Deutschland"
+      },
+      "correct_answer_id": 3
+    },
+    {
+      "id": 78,
+      "points": 600,
+      "question": "Was ist der wirtschaftsstärkste Staat nach dem Bruttoeinkommen?",
+      "answer_options": {
+        "1": "Frankreich",
+        "2": "Deutschland",
+        "3": "USA",
+        "4": "China"
+      },
+      "correct_answer_id": 3
+    },
+    {
+      "id": 79,
+      "points": 600,
+      "question": "Was war der Schwarze Freitag?",
+      "answer_options": {
+        "1": "Beginn der Arbeiterbewegung",
+        "2": "Wirtschaftskrise",
+        "3": "Börsencrash",
+        "4": "Ende des 1. Weltkriegs"
+      },
+      "correct_answer_id": 3
+    },
+    {
+      "id": 80,
+      "points": 800,
+      "question": "Welche Wirtschaftstheorie betont die Bedeutung der Nachfrage?",
+      "answer_options": {
+        "1": "Keynesianismus",
+        "2": "Monetarismus",
+        "3": "Anarchokapitalismus",
+        "4": "Marxismus"
+      },
+      "correct_answer_id": 1
+    },
+    {
+      "id": 81,
+      "points": 800,
+      "question": "Welche Organisation fördert den Welthandel und die wirtschaftliche Zusammenarbeit?",
+      "answer_options": {
+        "1": "UNESCO",
+        "2": "OPEC",
+        "3": "WTO",
+        "4": "NATO"
+      },
+      "correct_answer_id": 3
+    },
+    {
+      "id": 82,
+      "points": 800,
+      "question": "Wie hoch ist der weltweite Anteil des Warenhandels innerhalb der EU?",
+      "answer_options": {
+        "1": "Ein Viertel",
+        "2": "Zwei Drittel",
+        "3": "Ein Halb",
+        "4": "Neun Zehntel"
+      },
+      "correct_answer_id": 2
+    },
+    {
+      "id": 83,
+      "points": 1000,
+      "question": "Was ist das Triffin-Dilemma in der internationalen Wirtschaft?",
+      "answer_options": {
+        "1": "Währungsstabilität gegen Instabilität",
+        "2": "Bilaterale Handelsabkommen gegen Konflikt",
+        "3": "Geopolitischer Konflikt gegen Ölpreise",
+        "4": "Umweltauswirkungen gegen Abkommen"
+      },
+      "correct_answer_id": 1
+    },
+    {
+      "id": 84,
+      "points": 1000,
+      "question": "Was sind die Hauptmerkmale eines Schwellenlandes?",
+      "answer_options": {
+        "1": "Niedriges Bruttoinlandsprodukt",
+        "2": "Politische Stabilität",
+        "3": "Exportüberschuss",
+        "4": "Entwickelnde Märkte"
+      },
+      "correct_answer_id": 4
+    },
+    {
+      "id": 85,
+      "points": 1000,
+      "question": "Welcher Wirtschaftssektor befasst sich mit der Produktion von Gütern?",
+      "answer_options": {
+        "1": "Primärsektor",
+        "2": "Sekundärsektor",
+        "3": "Tertiärsektor",
+        "4": "Quartärsektor"
+      },
+      "correct_answer_id": 2
+    }
+  ],
+  "sports": [
+    {
+      "id": 86,
+      "points": 200,
+      "question": "Welche Sportart wird als König der Sportarten betitelt?",
+      "answer_options": {
+        "1": "Fußball",
+        "2": "Tennis",
+        "3": "Basketball",
+        "4": "Golf"
+      },
+      "correct_answer_id": 4
+    },
+    {
+      "id": 87,
+      "points": 200,
+      "question": "Bei welcher Sportart erzielt man einen Touchdown?",
+      "answer_options": {
+        "1": "Squash",
+        "2": "American Football",
+        "3": "Hockey",
+        "4": "Volleyball"
+      },
+      "correct_answer_id": 2
+    },
+    {
+      "id": 88,
+      "points": 200,
+      "question": "Wo gewann Deutschland zum ersten Mal die Fußball-Weltmeisterschaft?",
+      "answer_options": {
+        "1": "Berlin",
+        "2": "München",
+        "3": "Bern",
+        "4": "Wien"
+      },
+      "correct_answer_id": 3
+    },
+    {
+      "id": 89,
+      "points": 400,
+      "question": "Wie viele Spieler hat eine Basketballmannschaft?",
+      "answer_options": {
+        "1": "4",
+        "2": "5",
+        "3": "6",
+        "4": "7"
+      },
+      "correct_answer_id": 2
+    },
+    {
+      "id": 90,
+      "points": 400,
+      "question": "Mit was werden die Reifen beim amerikanischen Motorsport gefüllt?",
+      "answer_options": {
+        "1": "Stickstoff",
+        "2": "Wasserstoff",
+        "3": "Kohlenstoff",
+        "4": "Gallium"
+      },
+      "correct_answer_id": 1
+    },
+    {
+      "id": 91,
+      "points": 400,
+      "question": "Was bedeutet die Abkürzung DHB?",
+      "answer_options": {
+        "1": "Deutscher Hallensportbund",
+        "2": "Deutscher Hochleistungsbulle",
+        "3": "Deutscher Hochsprungbund",
+        "4": "Deutscher Handballbund"
+      },
+      "correct_answer_id": 4
+    },
+    {
+      "id": 92,
+      "points": 400,
+      "question": "Welcher Schwimmstil ist bei Olympia nicht erlaubt?",
+      "answer_options": {
+        "1": "Freistil",
+        "2": "Hundepaddel",
+        "3": "Schmetterling",
+        "4": "Rückenschwimmen"
+      },
+      "correct_answer_id": 2
+    },
+    {
+      "id": 93,
+      "points": 400,
+      "question": "Welches Spiel wird nicht in E-Sport Wettbewerben gespielt?",
+      "answer_options": {
+        "1": "League of Legends",
+        "2": "FIFA",
+        "3": "Minecraft",
+        "4": "Super Smash Bros"
+      },
+      "correct_answer_id": 3
+    },
+    {
+      "id": 94,
+      "points": 600,
+      "question": "Welches Land hat die meisten olympischen Goldmedaillen in Leichtathletik gewonnen?",
+      "answer_options": {
+        "1": "Vereinigte Staaten",
+        "2": "Sowjetunion",
+        "3": "China",
+        "4": "Deutschland"
+      },
+      "correct_answer_id": 1
+    },
+    {
+      "id": 95,
+      "points": 600,
+      "question": "Wie viele Runden gibt es im Profiboxen?",
+      "answer_options": {
+        "1": "6",
+        "2": "10",
+        "3": "12",
+        "4": "15"
+      },
+      "correct_answer_id": 3
+    },
+    {
+      "id": 96,
+      "points": 600,
+      "question": "Welches Land wurde bei der Fußball WM 2018 Weltmeister?",
+      "answer_options": {
+        "1": "Kroatien",
+        "2": "Belgien",
+        "3": "England",
+        "4": "Frankreich"
+      },
+      "correct_answer_id": 4
+    },
+    {
+      "id": 97,
+      "points": 600,
+      "question": "Was bedeutet die Bezeichnung „Tiqui-Taca“ beim Fußball?",
+      "answer_options": {
+        "1": "Volleyschuss",
+        "2": "Kurzpassspiel",
+        "3": "Elfmeter",
+        "4": "Indirekter Freistoß"
+      },
+      "correct_answer_id": 2
+    },
+    {
+      "id": 98,
+      "points": 800,
+      "question": "Welche Sportart wird auf einem Feld mit 22 Spielern und einem ovalen Ball gespielt?",
+      "answer_options": {
+        "1": "Rugby",
+        "2": "Cricket",
+        "3": "American Football",
+        "4": "Baseball"
+      },
+      "correct_answer_id": 1
+    },
+    {
+      "id": 99,
+      "points": 800,
+      "question": "Wer hat die meisten olympischen Medaillen gewonnen?",
+      "answer_options": {
+        "1": "Larissa Latynina",
+        "2": "Usain Bolt",
+        "3": "Mark Spitz",
+        "4": "Michael Phelps"
+      },
+      "correct_answer_id": 4
+    },
+    {
+      "id": 100,
+      "points": 800,
+      "question": "Welche Wassersportart erlaubt bis zu 20 Personen im Team?",
+      "answer_options": {
+        "1": "Rafting",
+        "2": "Kajak",
+        "3": "Wasserski",
+        "4": "Drachenbootrennen"
+      },
+      "correct_answer_id": 4
+    },
+    {
+      "id": 101,
+      "points": 800,
+      "question": "Wie oft war Michael Schumacher Formel-1-Weltmeister?",
+      "answer_options": {
+        "1": "6 Mal",
+        "2": "7 Mal",
+        "3": "8 Mal",
+        "4": "9 Mal"
+      },
+      "correct_answer_id": 2
+    },
+    {
+      "id": 102,
+      "points": 800,
+      "question": "Wann wurde Boxen ein legaler Sport?",
+      "answer_options": {
+        "1": "17. Jahrhundert",
+        "2": "18. Jahrhundert",
+        "3": "19. Jahrhundert",
+        "4": "20. Jahrhundert"
+      },
+      "correct_answer_id": 3
+    },
+    {
+      "id": 103,
+      "points": 1000,
+      "question": "Welches Land ist bekannt für seine Dominanz im Tennis?",
+      "answer_options": {
+        "1": "Vereinigte Staaten",
+        "2": "Schweden",
+        "3": "Serbien",
+        "4": "Schweiz"
+      },
+      "correct_answer_id": 4
+    },
+    {
+      "id": 104,
+      "points": 1000,
+      "question": "Wer hat als erstes auf dem Mond Golf gespielt?",
+      "answer_options": {
+        "1": "Buzz Aldrin",
+        "2": "Alan Shepard",
+        "3": "David Scott",
+        "4": "Charles Duke"
+      },
+      "correct_answer_id": 2
+    },
+    {
+      "id": 105,
+      "points": 1000,
+      "question": "In welchem Jahr fand der langsamste olympische Marathon statt? ",
+      "answer_options": {
+        "1": "1912",
+        "2": "1896",
+        "3": "1904",
+        "4": "1932"
+      },
+      "correct_answer_id": 3
+    },
+    {
+      "id": 106,
+      "points": 1000,
+      "question": "Aus welcher Mannschaft ging Manchester United hervor?",
+      "answer_options": {
+        "1": "Newton Heath",
+        "2": "Hartford Loans",
+        "3": "Manchester Workers",
+        "4": "Langton Miners"
+      },
+      "correct_answer_id": 1
+    }
+  ]
+}
